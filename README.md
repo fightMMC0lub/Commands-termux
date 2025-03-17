@@ -1,2 +1,3 @@
 # Command-termux
-All Command you need to start with termux 
+## All Command you need to start with termux 
+### Basics Commands
