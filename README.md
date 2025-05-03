@@ -1,4 +1,4 @@
-# 📱 Termux Commands Repository
+# 📱 Termux Commands 
 
 Welcome to the **Termux Commands Repository** — a curated collection of useful commands for beginners and advanced users alike. Whether you're just starting with Termux or diving into deeper system and network-level tasks, this guide has you covered.
 
