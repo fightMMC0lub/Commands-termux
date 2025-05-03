@@ -30,7 +30,6 @@ Welcome to the **Termux Commands Repository** — a curated collection of useful
 
 Install Termux from [F-Droid](https://f-droid.org/en/packages/com.termux/) (recommended for latest updates):
 
-```sh
 pkg update && pkg upgrade
 pkg install git curl wget
 termux-setup-storage
