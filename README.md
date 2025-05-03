@@ -6,7 +6,7 @@ Welcome to the **Termux Commands Repository** — a curated collection of useful
 
 ## 📌 Table of Contents
 
-1. [Introduction](introduction)  
+1. [Introduction](#introduction)  
 2. [Installation & Setup](#installation--setup)  
 3. [Basic Commands](commands/basic.txt	)  
 4. [Package Management](#package-management)  
