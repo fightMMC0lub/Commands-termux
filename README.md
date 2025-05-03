@@ -16,7 +16,7 @@ Welcome to the **Termux Commands Repository** — a curated collection of useful
 8. [Development Tools](#development-tools)  
 9. [Hacking & Pentesting Tools](#hacking--pentesting-tools)  
 10. [Useful Scripts & Tips](#useful-scripts--tips)  
-11. [Disclaimer](#disclaimer)  
+
 
 ---
 
