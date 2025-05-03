@@ -8,8 +8,8 @@ Welcome to the **Termux Commands Repository** — a curated collection of useful
 
 1. [Introduction](#introduction)  
 2. [Installation & Setup](#installation--setup)  
-3. [Basic Commands](commands/basic.md)  
-4. [Package Management](commands/packages.md)  
+3. [Basic Commands](#commands/basic.md)  
+4. [Package Management](#commands/packages.md)  
 5. [File Management](#file-management)  
 6. [System Information](#system-information)  
 7. [Networking Tools](#networking-tools)  
