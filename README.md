@@ -1,6 +1,6 @@
-# 📱 Termux Commands 
+# 📱 Termux Commands Reference Guide
 
-Welcome to the **Termux Commands Repository** — a curated collection of useful commands for beginners and advanced users alike. Whether you're just starting with Termux or diving into deeper system and network-level tasks, this guide has you covered.
+A comprehensive list of Termux commands for beginners and advanced users.
 
 ---
 
@@ -30,14 +30,9 @@ Welcome to the **Termux Commands Repository** — a curated collection of useful
 
 Install Termux from [F-Droid](https://f-droid.org/en/packages/com.termux/) (recommended for latest updates):
 
-pkg update && pkg upgrade
-pkg install git curl wget
-termux-setup-storage
-
-
-# Termux Commands Reference Guide
-
-A comprehensive list of Termux commands for beginners and advanced users.
+- `pkg update && pkg upgrade`
+- `pkg install git curl wget`
+- `termux-setup-storage`
 
 ---
 
